@@ -2,7 +2,7 @@
 
 <br>
 
-                                         I'm Jess 😄 a Junior Developer 
+                                               I'm Jess 😄 a Junior Developer 
 
 <br>
 
