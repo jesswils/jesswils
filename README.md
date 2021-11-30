@@ -1,30 +1,10 @@
-![Alt Text](https://i.giphy.com/media/26gBjw1bz1x5rIem4/giphy.gif) 
+![Alt Text](https://media.giphy.com/media/3orif9j2jFdXWo5IsM/giphy.gif) 
 
 <br>
 
-                                               I'm Jess 😄 a Junior Developer 
+                                               Hi! 👋 I'm Jess 😄 
 
 <br>
-
-I started self-learning software development over a year ago, building on the skills I had with HTML5 and CSS3, moving onto JavaScript and later to Dart and Flutter. I've always been interested in design and technology ~~(playing video games counts, right?)~~ and now I get to do it as a job! 
-<br>
-<br>
-Although I'm only at the start of my career, I'm a fast learner and I want to develop my skills and knowledge to build excellent software.
-
-
-
-
-### Currently working on :woman_technologist:
-
-📓 [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/)
-<br>
-:raising_hand: **Looking for work!**
-<br>
-:pinched_fingers:  Updating my portfolio 
-<br>
-<br>
-
-___
 <br>
 
 **Thanks for stopping by!** You can reach me via Linkedin or pop me an email: 
