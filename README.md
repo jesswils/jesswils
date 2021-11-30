@@ -2,7 +2,7 @@
 
 <br>
 
-                                               Hi! 👋 I'm Jess 😄 
+                                                      Hi! 👋 I'm Jess 😄 
 
 <br>
 <br>
