@@ -7,6 +7,9 @@
 <br>
 <br>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jesswils=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 **Thanks for stopping by!** You can reach me via Linkedin or pop me an email: 
 <br>
 
