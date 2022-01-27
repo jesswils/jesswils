@@ -1,9 +1,6 @@
 ![Alt Text](https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif) 
 
 <br>
-
-                                                      Hi! 👋 I'm Jess 😄 
-
 <br>
 <br>
 
